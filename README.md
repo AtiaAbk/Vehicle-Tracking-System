@@ -1,4 +1,4 @@
-8# 🚦 TRAFFIC TRACKER : Real-Time Vehicle Detection & Counting
+# 🚦 TRAFFIC TRACKER : Real-Time Vehicle Detection & Counting
 
 Unleash the power of **Artificial Intelligence** and **Computer Vision** for *real-time traffic management*. This project is not just a demo; it's a **battle-tested solution** for automated vehicle counting, traffic analytics, and law enforcement. Enter the era of smart cities—**NO COMPROMISES.**
 
