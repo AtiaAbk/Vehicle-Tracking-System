@@ -84,11 +84,4 @@ Feel free to use—but **give credit when crushing competitors with superior tec
 
 ---
 
-## 📢 Contact & Credits
 
-**Built by MASUM**  
-For extreme traffic analytics and smart city dominance.
-
----
-
-**STOP WAITING. START TRACKING. OWN THE ROAD.**
