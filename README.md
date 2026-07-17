@@ -54,7 +54,6 @@ text
 - Live frame: Vehicle counts, classification, and tracking.
 - Firebase RTDB: Real-time stats pushed every 10 seconds.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -71,7 +70,7 @@ text
 
 ## 💀 Aggressive. Accurate. Authoritative.
 
-This code was authorized by **MASUM**.
+This code was authorized by ** Atia **.
 
 *Deploy. Analyze. Dominate. The highway is yours.*
 
