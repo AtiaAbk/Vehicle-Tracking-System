@@ -16,24 +16,7 @@
 
 ---
 
-## 📖 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Demo](#-demo)
-- [Project Structure](#-project-structure)
-- [Installation](#️-installation)
-- [Usage](#-usage)
-- [Output](#-output)
-- [Technology Stack](#️-technology-stack)
-- [Future Improvements](#-future-improvements)
-- [Applications](#-applications)
-- [Sample Detection](#-sample-detection)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [Acknowledgments](#-acknowledgments)
-- [Support](#-support)
-- [License](#-license)
 
 ---
 
